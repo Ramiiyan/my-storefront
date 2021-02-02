@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Category___en",
+    "path": "/Category",
+    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Category.vue",
+    "chunkName": "pages/Category",
+    "_name": "_c103eef2"
+  },
+  {
+    "name": "checkout___en",
+    "path": "/checkout",
+    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout.vue",
+    "children": [
+      {
+        "path": "order-review",
+        "name": "order-review___en",
+        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\OrderReview.vue",
+        "_name": "_00d7d9dd"
+      },
+      {
+        "path": "payment",
+        "name": "payment___en",
+        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\Payment.vue",
+        "_name": "_748dcb1d"
+      },
+      {
+        "path": "personal-details",
+        "name": "personal-details___en",
+        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\PersonalDetails.vue",
+        "_name": "_c311900e"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___en",
+        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\Shipping.vue",
+        "_name": "_25aadfa7"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___en",
+        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\ThankYou.vue",
+        "_name": "_0f38ab4e"
+      }
+    ],
+    "_name": "_f19cbdda"
+  },
+  {
+    "name": "Checkout___en",
+    "path": "/Checkout",
+    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout.vue",
+    "chunkName": "pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-OrderReview___en",
+        "path": "OrderReview",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\OrderReview.vue",
+        "chunkName": "pages/Checkout/OrderReview",
+        "_name": "_ed36b932"
+      },
+      {
+        "name": "Checkout-Payment___en",
+        "path": "Payment",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\Payment.vue",
+        "chunkName": "pages/Checkout/Payment",
+        "_name": "_6040e9a7"
+      },
+      {
+        "name": "Checkout-PersonalDetails___en",
+        "path": "PersonalDetails",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\PersonalDetails.vue",
+        "chunkName": "pages/Checkout/PersonalDetails",
+        "_name": "_19102c83"
+      },
+      {
+        "name": "Checkout-Shipping___en",
+        "path": "Shipping",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\Shipping.vue",
+        "chunkName": "pages/Checkout/Shipping",
+        "_name": "_9f48db46"
+      },
+      {
+        "name": "Checkout-ThankYou___en",
+        "path": "ThankYou",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\ThankYou.vue",
+        "chunkName": "pages/Checkout/ThankYou",
+        "_name": "_cc2d43f8"
+      }
+    ],
+    "_name": "_45759662"
+  },
+  {
+    "name": "home___de",
+    "path": "/de",
+    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Home.vue",
+    "_name": "_c1e792a8"
+  },
+  {
+    "name": "Home___en",
+    "path": "/Home",
+    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_3e970868"
+  },
+  {
+    "name": "MyAccount___en",
+    "path": "/MyAccount",
+    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount.vue",
+    "chunkName": "pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-BillingDetails___en",
+        "path": "BillingDetails",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\BillingDetails.vue",
+        "chunkName": "pages/MyAccount/BillingDetails",
+        "_name": "_668da2e2"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___en",
+        "path": "LoyaltyCard",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\LoyaltyCard.vue",
+        "chunkName": "pages/MyAccount/LoyaltyCard",
+        "_name": "_4d9955de"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___en",
+        "path": "MyNewsletter",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\MyNewsletter.vue",
+        "chunkName": "pages/MyAccount/MyNewsletter",
+        "_name": "_7d218866"
+      },
+      {
+        "name": "MyAccount-MyProfile___en",
+        "path": "MyProfile",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\MyProfile.vue",
+        "chunkName": "pages/MyAccount/MyProfile",
+        "_name": "_f7c88f76"
+      },
+      {
+        "name": "MyAccount-MyReviews___en",
+        "path": "MyReviews",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\MyReviews.vue",
+        "chunkName": "pages/MyAccount/MyReviews",
+        "_name": "_68c2cc92"
+      },
+      {
+        "name": "MyAccount-OrderHistory___en",
+        "path": "OrderHistory",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\OrderHistory.vue",
+        "chunkName": "pages/MyAccount/OrderHistory",
+        "_name": "_c69745a4"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___en",
+        "path": "ShippingDetails",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\ShippingDetails.vue",
+        "chunkName": "pages/MyAccount/ShippingDetails",
+        "_name": "_7a480b1c"
+      }
+    ],
+    "_name": "_067bab28"
+  },
+  {
+    "name": "Product___en",
+    "path": "/Product",
+    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Product.vue",
+    "chunkName": "pages/Product",
+    "_name": "_79cde5f6"
+  },
+  {
+    "name": "Category___de",
+    "path": "/de/Category",
+    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Category.vue",
+    "chunkName": "pages/Category",
+    "_name": "_c103eef2"
+  },
+  {
+    "name": "checkout___de",
+    "path": "/de/checkout",
+    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout.vue",
+    "children": [
+      {
+        "path": "order-review",
+        "name": "order-review___de",
+        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\OrderReview.vue",
+        "_name": "_00d7d9dd"
+      },
+      {
+        "path": "payment",
+        "name": "payment___de",
+        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\Payment.vue",
+        "_name": "_748dcb1d"
+      },
+      {
+        "path": "personal-details",
+        "name": "personal-details___de",
+        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\PersonalDetails.vue",
+        "_name": "_c311900e"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___de",
+        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\Shipping.vue",
+        "_name": "_25aadfa7"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___de",
+        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\ThankYou.vue",
+        "_name": "_0f38ab4e"
+      }
+    ],
+    "_name": "_f19cbdda"
+  },
+  {
+    "name": "Checkout___de",
+    "path": "/de/Checkout",
+    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout.vue",
+    "chunkName": "pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-OrderReview___de",
+        "path": "OrderReview",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\OrderReview.vue",
+        "chunkName": "pages/Checkout/OrderReview",
+        "_name": "_ed36b932"
+      },
+      {
+        "name": "Checkout-Payment___de",
+        "path": "Payment",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\Payment.vue",
+        "chunkName": "pages/Checkout/Payment",
+        "_name": "_6040e9a7"
+      },
+      {
+        "name": "Checkout-PersonalDetails___de",
+        "path": "PersonalDetails",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\PersonalDetails.vue",
+        "chunkName": "pages/Checkout/PersonalDetails",
+        "_name": "_19102c83"
+      },
+      {
+        "name": "Checkout-Shipping___de",
+        "path": "Shipping",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\Shipping.vue",
+        "chunkName": "pages/Checkout/Shipping",
+        "_name": "_9f48db46"
+      },
+      {
+        "name": "Checkout-ThankYou___de",
+        "path": "ThankYou",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\ThankYou.vue",
+        "chunkName": "pages/Checkout/ThankYou",
+        "_name": "_cc2d43f8"
+      }
+    ],
+    "_name": "_45759662"
+  },
+  {
+    "name": "Home___de",
+    "path": "/de/Home",
+    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_3e970868"
+  },
+  {
+    "name": "MyAccount___de",
+    "path": "/de/MyAccount",
+    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount.vue",
+    "chunkName": "pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-BillingDetails___de",
+        "path": "BillingDetails",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\BillingDetails.vue",
+        "chunkName": "pages/MyAccount/BillingDetails",
+        "_name": "_668da2e2"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___de",
+        "path": "LoyaltyCard",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\LoyaltyCard.vue",
+        "chunkName": "pages/MyAccount/LoyaltyCard",
+        "_name": "_4d9955de"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___de",
+        "path": "MyNewsletter",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\MyNewsletter.vue",
+        "chunkName": "pages/MyAccount/MyNewsletter",
+        "_name": "_7d218866"
+      },
+      {
+        "name": "MyAccount-MyProfile___de",
+        "path": "MyProfile",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\MyProfile.vue",
+        "chunkName": "pages/MyAccount/MyProfile",
+        "_name": "_f7c88f76"
+      },
+      {
+        "name": "MyAccount-MyReviews___de",
+        "path": "MyReviews",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\MyReviews.vue",
+        "chunkName": "pages/MyAccount/MyReviews",
+        "_name": "_68c2cc92"
+      },
+      {
+        "name": "MyAccount-OrderHistory___de",
+        "path": "OrderHistory",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\OrderHistory.vue",
+        "chunkName": "pages/MyAccount/OrderHistory",
+        "_name": "_c69745a4"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___de",
+        "path": "ShippingDetails",
+        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\ShippingDetails.vue",
+        "chunkName": "pages/MyAccount/ShippingDetails",
+        "_name": "_7a480b1c"
+      }
+    ],
+    "_name": "_067bab28"
+  },
+  {
+    "name": "Product___de",
+    "path": "/de/Product",
+    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Product.vue",
+    "chunkName": "pages/Product",
+    "_name": "_79cde5f6"
+  },
+  {
+    "name": "my-account___de",
+    "path": "/de/my-account/:pageName?",
+    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\MyAccount.vue",
+    "_name": "_cbc67138"
+  },
+  {
+    "name": "product___de",
+    "path": "/de/p/:id/:slug",
+    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Product.vue",
+    "_name": "_5e40e132"
+  },
+  {
+    "name": "category___de",
+    "path": "/de/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Category.vue",
+    "_name": "_496a74cb"
+  },
+  {
+    "name": "my-account___en",
+    "path": "/my-account/:pageName?",
+    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\MyAccount.vue",
+    "_name": "_cbc67138"
+  },
+  {
+    "name": "product___en",
+    "path": "/p/:id/:slug",
+    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Product.vue",
+    "_name": "_5e40e132"
+  },
+  {
+    "name": "category___en",
+    "path": "/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Category.vue",
+    "_name": "_496a74cb"
+  },
+  {
+    "name": "home___en",
+    "path": "/",
+    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Home.vue",
+    "_name": "_c1e792a8"
+  }
+]
