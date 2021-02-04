@@ -616,7 +616,7 @@ const globalPlugin = context => {
     }
 };
 
-const staticPath = 'D:/MY PROJECTS/Vue Projects/my-storefront/.nuxt/static-json';
+const staticPath = '/Users/sshajeeth/Desktop/GitHub/my-storefront/.nuxt/static-json';
 const staticCache = {};
 function writeFile(key, value) {
     if (process.client || !process.static)
