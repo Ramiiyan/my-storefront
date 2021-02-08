@@ -2,371 +2,371 @@
   {
     "name": "Category___en",
     "path": "/Category",
-    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Category.vue",
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Category.vue",
     "chunkName": "pages/Category",
-    "_name": "_c103eef2"
+    "_name": "_01282b16"
   },
   {
     "name": "checkout___en",
     "path": "/checkout",
-    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout.vue",
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout.vue",
     "children": [
       {
         "path": "order-review",
         "name": "order-review___en",
-        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\OrderReview.vue",
-        "_name": "_00d7d9dd"
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/OrderReview.vue",
+        "_name": "_65737775"
       },
       {
         "path": "payment",
         "name": "payment___en",
-        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\Payment.vue",
-        "_name": "_748dcb1d"
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/Payment.vue",
+        "_name": "_47f01696"
       },
       {
         "path": "personal-details",
         "name": "personal-details___en",
-        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\PersonalDetails.vue",
-        "_name": "_c311900e"
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/PersonalDetails.vue",
+        "_name": "_2b4b6cde"
       },
       {
         "path": "shipping",
         "name": "shipping___en",
-        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\Shipping.vue",
-        "_name": "_25aadfa7"
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/Shipping.vue",
+        "_name": "_a5142de2"
       },
       {
         "path": "thank-you",
         "name": "thank-you___en",
-        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\ThankYou.vue",
-        "_name": "_0f38ab4e"
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/ThankYou.vue",
+        "_name": "_d1f89694"
       }
     ],
-    "_name": "_f19cbdda"
+    "_name": "_3eef575e"
   },
   {
     "name": "Checkout___en",
     "path": "/Checkout",
-    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout.vue",
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout.vue",
     "chunkName": "pages/Checkout",
     "children": [
       {
         "name": "Checkout-OrderReview___en",
         "path": "OrderReview",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\OrderReview.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/OrderReview.vue",
         "chunkName": "pages/Checkout/OrderReview",
-        "_name": "_ed36b932"
+        "_name": "_65737775"
       },
       {
         "name": "Checkout-Payment___en",
         "path": "Payment",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\Payment.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/Payment.vue",
         "chunkName": "pages/Checkout/Payment",
-        "_name": "_6040e9a7"
+        "_name": "_47f01696"
       },
       {
         "name": "Checkout-PersonalDetails___en",
         "path": "PersonalDetails",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\PersonalDetails.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/PersonalDetails.vue",
         "chunkName": "pages/Checkout/PersonalDetails",
-        "_name": "_19102c83"
+        "_name": "_2b4b6cde"
       },
       {
         "name": "Checkout-Shipping___en",
         "path": "Shipping",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\Shipping.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/Shipping.vue",
         "chunkName": "pages/Checkout/Shipping",
-        "_name": "_9f48db46"
+        "_name": "_a5142de2"
       },
       {
         "name": "Checkout-ThankYou___en",
         "path": "ThankYou",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\ThankYou.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/ThankYou.vue",
         "chunkName": "pages/Checkout/ThankYou",
-        "_name": "_cc2d43f8"
+        "_name": "_d1f89694"
       }
     ],
-    "_name": "_45759662"
+    "_name": "_3eef575e"
   },
   {
     "name": "home___de",
     "path": "/de",
-    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Home.vue",
-    "_name": "_c1e792a8"
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Home.vue",
+    "_name": "_e5c26b12"
   },
   {
     "name": "Home___en",
     "path": "/Home",
-    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Home.vue",
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Home.vue",
     "chunkName": "pages/Home",
-    "_name": "_3e970868"
+    "_name": "_e5c26b12"
   },
   {
     "name": "MyAccount___en",
     "path": "/MyAccount",
-    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount.vue",
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount.vue",
     "chunkName": "pages/MyAccount",
     "children": [
       {
         "name": "MyAccount-BillingDetails___en",
         "path": "BillingDetails",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\BillingDetails.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/BillingDetails.vue",
         "chunkName": "pages/MyAccount/BillingDetails",
-        "_name": "_668da2e2"
+        "_name": "_3cbd16ed"
       },
       {
         "name": "MyAccount-LoyaltyCard___en",
         "path": "LoyaltyCard",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\LoyaltyCard.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/LoyaltyCard.vue",
         "chunkName": "pages/MyAccount/LoyaltyCard",
-        "_name": "_4d9955de"
+        "_name": "_9f410b80"
       },
       {
         "name": "MyAccount-MyNewsletter___en",
         "path": "MyNewsletter",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\MyNewsletter.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/MyNewsletter.vue",
         "chunkName": "pages/MyAccount/MyNewsletter",
-        "_name": "_7d218866"
+        "_name": "_9124b8aa"
       },
       {
         "name": "MyAccount-MyProfile___en",
         "path": "MyProfile",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\MyProfile.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/MyProfile.vue",
         "chunkName": "pages/MyAccount/MyProfile",
-        "_name": "_f7c88f76"
+        "_name": "_bcf8e5b2"
       },
       {
         "name": "MyAccount-MyReviews___en",
         "path": "MyReviews",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\MyReviews.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/MyReviews.vue",
         "chunkName": "pages/MyAccount/MyReviews",
-        "_name": "_68c2cc92"
+        "_name": "_2df322ce"
       },
       {
         "name": "MyAccount-OrderHistory___en",
         "path": "OrderHistory",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\OrderHistory.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/OrderHistory.vue",
         "chunkName": "pages/MyAccount/OrderHistory",
-        "_name": "_c69745a4"
+        "_name": "_da9a75e8"
       },
       {
         "name": "MyAccount-ShippingDetails___en",
         "path": "ShippingDetails",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\ShippingDetails.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/ShippingDetails.vue",
         "chunkName": "pages/MyAccount/ShippingDetails",
-        "_name": "_7a480b1c"
+        "_name": "_0ac12e7e"
       }
     ],
-    "_name": "_067bab28"
+    "_name": "_4bd44b0e"
   },
   {
     "name": "Product___en",
     "path": "/Product",
-    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Product.vue",
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Product.vue",
     "chunkName": "pages/Product",
-    "_name": "_79cde5f6"
+    "_name": "_221db587"
   },
   {
     "name": "Category___de",
     "path": "/de/Category",
-    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Category.vue",
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Category.vue",
     "chunkName": "pages/Category",
-    "_name": "_c103eef2"
+    "_name": "_01282b16"
   },
   {
     "name": "checkout___de",
     "path": "/de/checkout",
-    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout.vue",
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout.vue",
     "children": [
       {
         "path": "order-review",
         "name": "order-review___de",
-        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\OrderReview.vue",
-        "_name": "_00d7d9dd"
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/OrderReview.vue",
+        "_name": "_65737775"
       },
       {
         "path": "payment",
         "name": "payment___de",
-        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\Payment.vue",
-        "_name": "_748dcb1d"
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/Payment.vue",
+        "_name": "_47f01696"
       },
       {
         "path": "personal-details",
         "name": "personal-details___de",
-        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\PersonalDetails.vue",
-        "_name": "_c311900e"
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/PersonalDetails.vue",
+        "_name": "_2b4b6cde"
       },
       {
         "path": "shipping",
         "name": "shipping___de",
-        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\Shipping.vue",
-        "_name": "_25aadfa7"
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/Shipping.vue",
+        "_name": "_a5142de2"
       },
       {
         "path": "thank-you",
         "name": "thank-you___de",
-        "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Checkout\\ThankYou.vue",
-        "_name": "_0f38ab4e"
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/ThankYou.vue",
+        "_name": "_d1f89694"
       }
     ],
-    "_name": "_f19cbdda"
+    "_name": "_3eef575e"
   },
   {
     "name": "Checkout___de",
     "path": "/de/Checkout",
-    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout.vue",
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout.vue",
     "chunkName": "pages/Checkout",
     "children": [
       {
         "name": "Checkout-OrderReview___de",
         "path": "OrderReview",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\OrderReview.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/OrderReview.vue",
         "chunkName": "pages/Checkout/OrderReview",
-        "_name": "_ed36b932"
+        "_name": "_65737775"
       },
       {
         "name": "Checkout-Payment___de",
         "path": "Payment",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\Payment.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/Payment.vue",
         "chunkName": "pages/Checkout/Payment",
-        "_name": "_6040e9a7"
+        "_name": "_47f01696"
       },
       {
         "name": "Checkout-PersonalDetails___de",
         "path": "PersonalDetails",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\PersonalDetails.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/PersonalDetails.vue",
         "chunkName": "pages/Checkout/PersonalDetails",
-        "_name": "_19102c83"
+        "_name": "_2b4b6cde"
       },
       {
         "name": "Checkout-Shipping___de",
         "path": "Shipping",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\Shipping.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/Shipping.vue",
         "chunkName": "pages/Checkout/Shipping",
-        "_name": "_9f48db46"
+        "_name": "_a5142de2"
       },
       {
         "name": "Checkout-ThankYou___de",
         "path": "ThankYou",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Checkout\\\\ThankYou.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Checkout/ThankYou.vue",
         "chunkName": "pages/Checkout/ThankYou",
-        "_name": "_cc2d43f8"
+        "_name": "_d1f89694"
       }
     ],
-    "_name": "_45759662"
+    "_name": "_3eef575e"
   },
   {
     "name": "Home___de",
     "path": "/de/Home",
-    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Home.vue",
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Home.vue",
     "chunkName": "pages/Home",
-    "_name": "_3e970868"
+    "_name": "_e5c26b12"
   },
   {
     "name": "MyAccount___de",
     "path": "/de/MyAccount",
-    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount.vue",
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount.vue",
     "chunkName": "pages/MyAccount",
     "children": [
       {
         "name": "MyAccount-BillingDetails___de",
         "path": "BillingDetails",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\BillingDetails.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/BillingDetails.vue",
         "chunkName": "pages/MyAccount/BillingDetails",
-        "_name": "_668da2e2"
+        "_name": "_3cbd16ed"
       },
       {
         "name": "MyAccount-LoyaltyCard___de",
         "path": "LoyaltyCard",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\LoyaltyCard.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/LoyaltyCard.vue",
         "chunkName": "pages/MyAccount/LoyaltyCard",
-        "_name": "_4d9955de"
+        "_name": "_9f410b80"
       },
       {
         "name": "MyAccount-MyNewsletter___de",
         "path": "MyNewsletter",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\MyNewsletter.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/MyNewsletter.vue",
         "chunkName": "pages/MyAccount/MyNewsletter",
-        "_name": "_7d218866"
+        "_name": "_9124b8aa"
       },
       {
         "name": "MyAccount-MyProfile___de",
         "path": "MyProfile",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\MyProfile.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/MyProfile.vue",
         "chunkName": "pages/MyAccount/MyProfile",
-        "_name": "_f7c88f76"
+        "_name": "_bcf8e5b2"
       },
       {
         "name": "MyAccount-MyReviews___de",
         "path": "MyReviews",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\MyReviews.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/MyReviews.vue",
         "chunkName": "pages/MyAccount/MyReviews",
-        "_name": "_68c2cc92"
+        "_name": "_2df322ce"
       },
       {
         "name": "MyAccount-OrderHistory___de",
         "path": "OrderHistory",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\OrderHistory.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/OrderHistory.vue",
         "chunkName": "pages/MyAccount/OrderHistory",
-        "_name": "_c69745a4"
+        "_name": "_da9a75e8"
       },
       {
         "name": "MyAccount-ShippingDetails___de",
         "path": "ShippingDetails",
-        "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\MyAccount\\\\ShippingDetails.vue",
+        "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount/ShippingDetails.vue",
         "chunkName": "pages/MyAccount/ShippingDetails",
-        "_name": "_7a480b1c"
+        "_name": "_0ac12e7e"
       }
     ],
-    "_name": "_067bab28"
+    "_name": "_4bd44b0e"
   },
   {
     "name": "Product___de",
     "path": "/de/Product",
-    "component": "D:\\\\MY PROJECTS\\\\Vue Projects\\\\my-storefront\\\\pages\\\\Product.vue",
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Product.vue",
     "chunkName": "pages/Product",
-    "_name": "_79cde5f6"
+    "_name": "_221db587"
   },
   {
     "name": "my-account___de",
     "path": "/de/my-account/:pageName?",
-    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\MyAccount.vue",
-    "_name": "_cbc67138"
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount.vue",
+    "_name": "_4bd44b0e"
   },
   {
     "name": "product___de",
     "path": "/de/p/:id/:slug",
-    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Product.vue",
-    "_name": "_5e40e132"
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Product.vue",
+    "_name": "_221db587"
   },
   {
     "name": "category___de",
     "path": "/de/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
-    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Category.vue",
-    "_name": "_496a74cb"
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Category.vue",
+    "_name": "_01282b16"
   },
   {
     "name": "my-account___en",
     "path": "/my-account/:pageName?",
-    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\MyAccount.vue",
-    "_name": "_cbc67138"
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/MyAccount.vue",
+    "_name": "_4bd44b0e"
   },
   {
     "name": "product___en",
     "path": "/p/:id/:slug",
-    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Product.vue",
-    "_name": "_5e40e132"
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Product.vue",
+    "_name": "_221db587"
   },
   {
     "name": "category___en",
     "path": "/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
-    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Category.vue",
-    "_name": "_496a74cb"
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Category.vue",
+    "_name": "_01282b16"
   },
   {
     "name": "home___en",
     "path": "/",
-    "component": "D:\\MY PROJECTS\\Vue Projects\\my-storefront\\pages\\Home.vue",
-    "_name": "_c1e792a8"
+    "component": "/Users/sshajeeth/Desktop/GitHub/my-storefront/pages/Home.vue",
+    "_name": "_e5c26b12"
   }
 ]
